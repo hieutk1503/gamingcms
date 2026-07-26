@@ -154,7 +154,7 @@ catalog:
   resolve.exports: ^2.0.3
   rimraf: ^6.1.2
   rollup: ^4.57.0
-  rollup-plugin-visualizer: ^5.14.0
+  rollup-plugin-visualizer: ^7.0.1
   sass: ^1.97.3
   secure-ls: ^2.0.0
   sortablejs: ^1.15.6
